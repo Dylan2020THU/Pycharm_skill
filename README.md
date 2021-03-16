@@ -9,5 +9,5 @@ CSDN link: https://blog.csdn.net/weixin_35684521/article/details/114859754
 
 #2  
 2021-3-16  
-How to establish a virtual environment via Pycharm.
+How to establish a virtual environment via Pycharm.  
 CSDN link: https://blog.csdn.net/weixin_35684521/article/details/114875245
